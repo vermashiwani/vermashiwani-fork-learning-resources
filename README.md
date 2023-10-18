@@ -1,6 +1,4 @@
-# LIST OF AWESOME LEARNING RESOURCES 🚀
-
-This collection provides a list of educational resources for Software Engineers. Feel free to add your favorite resources as well and help others in their journey of learning.
+# LISThis collection provides a list of educational resources for Software Engineers. Feel free to add your favorite resources as well and help others in their journey of learning.
 
 ## Competitive Programming <img src="https://img.icons8.com/material-sharp/24/000000/programming.png"/>
 
